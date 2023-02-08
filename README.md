@@ -3,11 +3,13 @@
 Se requiere un programa en Java para calcular el resultado de la suma, diferencia, producto, módulo y cociente de dos números decimales de cualquier longitud.
 ## Etapa 02. Definición de la solución
 ~~~ Entrada
-  float cantidad
-  String moneda1, moneda2, moneda3, moneda4, moneda5
-  double conversion
+  double num1, num2, suma, diferencia, producto, cociente, módulo
   
 - Proceso
+  Introducción de números: Se solicita al usuario que introduzca los dos números.
+  Selección de operación: Se le solicita que indique la operación a realizar: suma, diferencia, producto, cociente, módulo
+  Mostrar el resultado
+
   Solicitar moneda a convertir
   Solicitar cantidad a convertir
   Solicitar moneda para procesar conversión
